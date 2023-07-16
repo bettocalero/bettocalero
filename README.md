@@ -6,9 +6,9 @@ My name is Betto and I am from Argentina.
 * 🧑‍💻 I like programming and mathematics
 
 
-## Skills
+## Languages and Tools
 
-![mysql](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
-![python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![R](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg)
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="120" height="120"/>
+</p>
 
