@@ -8,5 +8,7 @@ My name is Betto and I am from Argentina.
 
 ## Skills
 
-* 
+![mysql](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![R](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg)
 
