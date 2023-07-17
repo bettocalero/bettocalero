@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hello 👋
 
 My name is Betto and I am from Argentina.
 
